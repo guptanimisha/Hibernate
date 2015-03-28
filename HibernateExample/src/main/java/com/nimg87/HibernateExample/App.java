@@ -1,4 +1,4 @@
-package com.mastertheboss.HibernateExample;
+package com.nimg87.HibernateExample;
 
 /**
  * Hello world!
