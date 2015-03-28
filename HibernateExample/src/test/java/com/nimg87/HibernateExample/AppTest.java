@@ -1,4 +1,4 @@
-package com.mastertheboss.HibernateExample;
+package com.nimg87.HibernateExample;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
