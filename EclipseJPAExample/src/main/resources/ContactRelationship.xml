@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContactRelationship>
+	<ContactRelationshipType>Official</ContactRelationshipType>
+	<RelationshipType>Permanent</RelationshipType>
+	<ContactFirstName>Nimisha</ContactFirstName>
+	<ContactMiddleName>N</ContactMiddleName>
+	<ContactLastName>Gupta</ContactLastName>
+	<PreferredName>Minnie</PreferredName>
+	<ContactRelationshipPhone>
+		<PhoneType>Mobile</PhoneType>
+		<PhoneNumber>9552082900</PhoneNumber>
+	</ContactRelationshipPhone>
+	<ContactRelationshipEmail>
+		<EmailType>Office</EmailType>
+		<EmailAddress>Gupta.Nimisha@principal.com</EmailAddress>
+	</ContactRelationshipEmail>
+	<ContactRelationshipAddress>
+		<AddressType>Home</AddressType>
+		<ContactAddressLine1>A-603</ContactAddressLine1>
+		<ContactAddressLine2>Padmavati Dhara</ContactAddressLine2>
+		<ContactAddressLine3>Wakad Rd</ContactAddressLine3>
+		<ContactAddressLine4>Wakad</ContactAddressLine4>
+		<ContactCityName>Pune</ContactCityName>
+		<ContactStateCode>MH</ContactStateCode>
+		<ContactStateName>Maharashtra</ContactStateName>
+		<ContactCounty></ContactCounty>
+		<ConactCountry>India</ConactCountry>
+		<ContactPostalCode>411057</ContactPostalCode>
+	</ContactRelationshipAddress>
+</ContactRelationship>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="ContactRelationship">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element type="xs:string" name="ContactRelationshipType" />
+				<xs:element type="xs:string" name="RelationshipType" />
+				<xs:element type="xs:string" name="ContactFirstName" />
+				<xs:element type="xs:string" name="ContactMiddleName" />
+				<xs:element type="xs:string" name="ContactLastName" />
+				<xs:element type="xs:string" name="PreferredName" />
+				<xs:element name="ContactRelationshipPhone">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element type="xs:string" name="PhoneType" />
+							<xs:element type="xs:long" name="PhoneNumber" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ContactRelationshipEmail">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element type="xs:string" name="EmailType" />
+							<xs:element type="xs:string" name="EmailAddress" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ContactRelationshipAddress">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element type="xs:string" name="AddressType" />
+							<xs:element type="xs:string" name="ContactAddressLine1" />
+							<xs:element type="xs:string" name="ContactAddressLine2" />
+							<xs:element type="xs:string" name="ContactAddressLine3" />
+							<xs:element type="xs:string" name="ContactAddressLine4" />
+							<xs:element type="xs:string" name="ContactCityName" />
+							<xs:element type="xs:string" name="ContactStateCode" />
+							<xs:element type="xs:string" name="ContactStateName" />
+							<xs:element type="xs:string" name="ContactCounty" />
+							<xs:element type="xs:string" name="ContactCountry" />
+							<xs:element type="xs:int" name="ContactPostalCode" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
