@@ -11,14 +11,6 @@
 		<class>com.entities.ContactRelationshipEmailPK</class>
 		<class>com.entities.ContactRelationshipPhone</class>
 		<class>com.entities.ContactRelationshipPhonePK</class>
-		<class>com.mastertheboss.App</class>
-		<class>com.mastertheboss.Department</class>
-		<class>com.mastertheboss.DepartmentPK</class>
-		<class>com.mastertheboss.Employee</class>
-		<class>com.mastertheboss.MappingFile</class>
-		<class>com.mastertheboss.StringSplitter</class>
-		<class>com.mastertheboss.TestJPQL</class>
-		<class>com.mastertheboss.ValidationTest</class>
 		<properties>
 			<property name="openjpa.ConnectionDriverName" value="com.mysql.jdbc.Driver" />
 			<property name="openjpa.ConnectionURL" value="jdbc:mysql://localhost:3306/mysql" />

@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="lib" path="/Users/Nimisha/Downloads/jars/dozer-5.3.2.jar" sourcepath="/Users/Nimisha/Downloads/dozer-5.3.2"/>
-	<classpathentry exported="true" kind="lib" path="/Users/Nimisha/Downloads/jars/slf4j-1.7.10/slf4j-api-1.7.10.jar"/>
-	<classpathentry exported="true" kind="lib" path="/Users/Nimisha/Downloads/jars/commons-lang3-3.3.2/commons-lang3-3.3.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="/Users/Nimisha/Downloads/jars/commons-beanutils-1.9.2/commons-beanutils-1.9.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="/Users/Nimisha/Downloads/jars/commons-logging-1.2/commons-logging-1.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="/Users/Nimisha/Downloads/glassfish4/glassfish/lib/javaee.jar"/>
-	<classpathentry kind="lib" path="/Users/Nimisha/Downloads/jars/commons-lang-2.6/commons-lang-2.6.jar"/>
 	<classpathentry kind="lib" path="/Users/Nimisha/Documents/workspace/mysql-connector-java-5.1.34/mysql-connector-java-5.1.34-bin.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
 		<attributes>
