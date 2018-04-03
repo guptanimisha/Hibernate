@@ -39,7 +39,7 @@ public class Java8Tester {
 	}
 
 	interface GreetingService {
-		void sayMessage(String message);r
+		void sayMessage(String message);
 	}
 
 	private int operate(int a, int b, MathOperation mathOperation){
